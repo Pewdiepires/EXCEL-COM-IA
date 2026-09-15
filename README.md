@@ -1,2 +1,2 @@
-# EXCEL-COM-IA
-Projetos desenvolvidos no curso EXCEL COM IA
+# PLANILHA DE CONTROLE DE INVESTIMENTOS
+Planilha de controle de investimentos no curso EXCEL COM IA
