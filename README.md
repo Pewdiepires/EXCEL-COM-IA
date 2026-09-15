@@ -1,2 +1,2 @@
-# PLANILHA DE CONTROLE DE INVESTIMENTOS
-Planilha de controle de investimentos no curso EXCEL COM IA
+# EXCEL COM IA
+Projetos desenvolvidos no curso EXCEL COM IA da DIO em parceria com o santander
